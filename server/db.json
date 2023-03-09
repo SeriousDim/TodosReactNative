@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Todd Howard",
+      "body": "Buy Skyrim"
+    },
+    {
+      "id": 2,
+      "title": "Sherlock Holmes",
+      "body": "Deductive Method"
+    },
+    {
+      "id": 3,
+      "title": "Sherlock Holmes",
+      "body": "Buy Skyrim"
+    },
+    {
+      "id": 4,
+      "title": "Sherlock Holmes",
+      "body": "Buy Skyrim"
+    },
+    {
+      "id": 5,
+      "title": "Sherlock Holmes",
+      "body": "Buy Skyrim"
+    },
+    {
+      "id": 6,
+      "title": "Sherlock Holmes",
+      "body": "Buy Skyrim"
+    }
+  ]
+}
